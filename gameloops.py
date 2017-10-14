@@ -1,7 +1,9 @@
- #for i in range(100):
-   # print(i)
-guess = int(input("guess a number between 0 and 10:"))
-while guess > 4 or guess < 4:
+tries = 5
+counter = 0
+
+while counter < tries :
+ guess = int(input("guess a number between 0 and 10:"))
+ counter = counter + 1
  if guess == 4:
   print("right")
  else:
