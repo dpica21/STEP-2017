@@ -1,0 +1,42 @@
+body{
+		background-color:blue;
+	}
+h1{
+	text-align: center;
+}
+div{
+			font-family:times;
+			
+			float:left;
+			margin-left: 50px;
+}
+a{
+	color:red;
+	float:right;
+	margin-right: 200px;
+	font-size: 400%;
+
+}
+.paris{
+	float:left;
+	border-radius: 10px;
+	margin-left: 50px;
+}
+.tahiti{
+	float:right;
+	margin-right: 50px;
+	border-radius: 10px;
+}
+.git{
+	border-radius: 100%;
+	float:center;
+}
+.git:hover{
+	 opacity: 0.5;
+}
+button{
+	margin-top:1000px;
+}
+p{
+	font-weight: bold;
+}
