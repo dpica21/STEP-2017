@@ -30,6 +30,7 @@ a{
 .git{
 	border-radius: 100%;
 	float:center;
+	margin-top: 400px;
 }
 .git:hover{
 	 opacity: 0.5;
@@ -40,3 +41,12 @@ button{
 p{
 	font-weight: bold;
 }
+.fr{
+	float:right;
+	margin-right: 70px;
+}
+
+
+
+
+
